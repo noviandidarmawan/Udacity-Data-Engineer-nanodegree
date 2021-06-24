@@ -1,0 +1,6 @@
+NORMALIZATION VS DENORMALIZATION
+
+
+NORMALIZATION
+1. tujuan normalisasi
+    mengurangi data redundancy dan meningkatkan data integrity

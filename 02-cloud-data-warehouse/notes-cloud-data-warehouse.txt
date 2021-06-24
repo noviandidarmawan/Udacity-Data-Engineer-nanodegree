@@ -1,0 +1,14 @@
+Data Warehouse:
+- is optimized to support analytical Process
+- has data gathered from multiple sources
+- Online Analytical Processing System 
+
+the goal of Data Warehouse:
+- Simple to understand
+- performant (fast analytical query performance)
+- quality assured
+- handles new questions well
+- secure 
+
+
+Facts & Dimensions
